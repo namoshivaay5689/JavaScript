@@ -1,0 +1,11 @@
+let a=5;
+let b=2;
+console.log(typeof a);
+console.log("a =",a ,"b =",b);
+console.log("sum =",6+4);
+console.log("sub =",a-b);
+console.log("Mul =",a*b);
+console.log("Div =",a/b);
+console.log("mod =",a%b);
+console.log("exponent =",a**b);
+console.log("increment =",a++);

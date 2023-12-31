@@ -1,0 +1,11 @@
+console.log("jai sri ram");
+fullname="ram";
+console.log(fullname);
+isfollow=true;
+console.log(isfollow);
+num=0;
+console.log(num); 
+const name="mahadev";
+console.log(name);
+name="mahakaal";
+console.log(name);
